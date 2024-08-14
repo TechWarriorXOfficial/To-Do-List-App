@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ToDoListApp">
+        <file>resources/images/background.jpg</file>
+    </qresource>
+</RCC>
