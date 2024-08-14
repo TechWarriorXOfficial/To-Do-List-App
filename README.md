@@ -1,6 +1,6 @@
 # To Do List App
 
-A simple and intuitive To-Do List application built using the Qt framework with C++. This application allows users to manage their daily tasks efficiently by adding, editing, and deleting items.
+A simple and intuitive To Do List application built using the Qt framework with C++. This application allows users to manage their daily tasks efficiently by adding, editing, and deleting items.
 
 ## Features
 
